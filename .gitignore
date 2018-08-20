@@ -6,6 +6,8 @@ target
 /bin
 *.received.*
 # Package Files #
+.classpath
+.project
 
 *.war
 *.ear
